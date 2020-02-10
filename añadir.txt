@@ -1,4 +1,6 @@
-a�ado un contenido
+añado un contenido
 
 
 cambios para la purueba de git5
+
+Cambio hecho por un capañero
