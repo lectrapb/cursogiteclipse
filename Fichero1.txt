@@ -7,3 +7,5 @@ cambio de rama 1
 
 
 prueba Git
+
+corregido el problmea encontrado
